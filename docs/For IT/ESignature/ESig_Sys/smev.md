@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Digit СМЭВ
-parent: index.md
+parent: Информационные системы
 nav_order: 2
 ---

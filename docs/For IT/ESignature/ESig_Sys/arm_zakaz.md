@@ -1,6 +1,6 @@
 ---
 layout: default
 title: АРМ-Заказчика
-parent: index.md
+parent: Информационные системы
 nav_order: 2
 ---
