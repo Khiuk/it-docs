@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Безопасность
+title: ЭЦП
 has_children: true
+parent: Отдел для IT
 ---
