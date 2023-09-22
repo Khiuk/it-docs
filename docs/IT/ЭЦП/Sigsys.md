@@ -1,6 +1,5 @@
 ---
 layout: default
-title: ЭЦП
+title: Информационные системы для работы с ЭЦП
 has_children: true
-parent: Раздел для IT
 ---
