@@ -1,0 +1,7 @@
+---
+title: Directum областной
+layout: default
+parent: ЭДО
+---
+
+Раздел с информацией о Установке и настройке Областном Directum
