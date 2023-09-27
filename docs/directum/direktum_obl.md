@@ -2,6 +2,7 @@
 title: Directum областной
 layout: default
 parent: ЭДО
+grand_parent: Домашняя страница
 ---
 
 Раздел с информацией о Установке и настройке Областном Directum
