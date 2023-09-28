@@ -1,5 +1,5 @@
 ---
-title:  Sekret Net
+title:  Secret Net
 layout: default
 parent: Безопасность
 grand_parent: Домашняя страница
