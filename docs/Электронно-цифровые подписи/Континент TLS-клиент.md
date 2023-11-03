@@ -1,7 +1,7 @@
 ---
 title: Континент TLS-клиент
 layout: default
-parent:
+parent: Электронно-цифровые подписи
 grand_parent: Домашняя страница
 ---
 
