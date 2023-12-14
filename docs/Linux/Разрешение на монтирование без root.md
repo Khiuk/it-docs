@@ -1,7 +1,7 @@
 ---
 title: Разрешение на монтирование без root
 layout: default
-parent: Astra
+parent: Astra Linux
 grand_parent: Домашняя страница
 ---
 
